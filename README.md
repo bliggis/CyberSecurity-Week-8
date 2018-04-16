@@ -18,23 +18,27 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL INJECTION__________________
-![](Exploit 3)
+<img src="Exploit 3" width="800">
 
 Vulnerability #2: Session Hijacking__________________
-![](Exploit 6)
+<img src="Exploit 6" width="800">
+
 
 ## Green
 
 Vulnerability #1: User Enumeration__________________
-![](Exploit 1)
+<img src="Exploit 1" width="800">
+
 
 Vulnerability #2: XSS__________________
-![](Exploit 4)
+<img src="Exploit 4" width="800">
+
 
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference__________________
-![](Exploit 2)
+<img src="Exploit 2" width="800">
+
 
 Vulnerability #2: Cross Site Forgery__________________
 
